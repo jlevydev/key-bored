@@ -1,0 +1,6 @@
+.env
+.terragrunt-cache
+.terraform
+.devenv
+.direnv
+.nats
